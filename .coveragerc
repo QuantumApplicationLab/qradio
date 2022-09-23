@@ -1,0 +1,9 @@
+[run]
+omit = 
+    */tests/*
+    */version.py
+
+[report]
+omit = 
+    */tests/*
+    */version.py
